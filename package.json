@@ -1,0 +1,16 @@
+{
+  "name": "maamirkh-hexadecimal-color-codes",
+  "version": "1.0.0",
+  "description": "Create a function that generates a random hexadecimal color code.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.5"
+  }
+}
